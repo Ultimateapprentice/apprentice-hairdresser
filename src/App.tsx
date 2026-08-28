@@ -1,5 +1,5 @@
 import { Link, Route, Routes } from "react-router-dom";
-import { Home, GraduationCap, ShieldCheck, Users } from "lucide-react";
+import { GraduationCap, ShieldCheck, Users } from "lucide-react";
 import "./App.css";
 
 function HomePage() {
